@@ -5,3 +5,6 @@
 
 - Firebase Hosting Setup (https://firebase.google.com/)
 Login with gmail account, and complete the three steps of project that required. (it's free)
+
+- Get all the Movies from The Movie Database API (https://developers.themoviedb.org/3/getting-started/introduction)
+- Build the Rows Components
